@@ -685,14 +685,14 @@ proxies:
   port: 16233
   server: 102.133.165.160
   type: ss
-- name: Hong Kong_None_trojan_10104
+- name: United States_None_trojan_10104
   password: d9064589-74af-432a-9390-5d8a9da281bf
   port: 20086
   server: sclass-c1.catcat321.com
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: Hong Kong_None_trojan_10105
+- name: United States_None_trojan_10105
   password: d9064589-74af-432a-9390-5d8a9da281bf
   port: 20123
   server: sclass-00.catcat321.com
@@ -773,7 +773,7 @@ proxies:
   server: 64.176.7.205
   sni: advanceyouremploymentskillsandcareerdevelopmenthub.com
   type: trojan
-- name: Finland_Helsinki_trojan_10118
+- name: Israel_Tel Aviv_trojan_10118
   password: happybirthdaydaniel
   port: 25267
   server: de-bots4.h1cloud.net
@@ -1620,14 +1620,14 @@ proxies:
   port: 16233
   server: 102.133.165.160
   type: ss
-- name: Hong Kong_None_trojan_11104
+- name: United States_None_trojan_11104
   password: d9064589-74af-432a-9390-5d8a9da281bf
   port: 20086
   server: sclass-c1.catcat321.com
   skip-cert-verify: true
   sni: hk.catxstar.com
   type: trojan
-- name: Hong Kong_None_trojan_11105
+- name: United States_None_trojan_11105
   password: d9064589-74af-432a-9390-5d8a9da281bf
   port: 20123
   server: sclass-00.catcat321.com
@@ -1708,7 +1708,7 @@ proxies:
   server: 64.176.7.205
   sni: advanceyouremploymentskillsandcareerdevelopmenthub.com
   type: trojan
-- name: Finland_Helsinki_trojan_11118
+- name: Israel_Tel Aviv_trojan_11118
   password: happybirthdaydaniel
   port: 25267
   server: de-bots4.h1cloud.net
@@ -2020,8 +2020,8 @@ proxy-groups:
   - United States_Santa Clara_ss_10101
   - South Africa_Johannesburg_ss_10102
   - South Africa_Johannesburg_ss_10103
-  - Hong Kong_None_trojan_10104
-  - Hong Kong_None_trojan_10105
+  - United States_None_trojan_10104
+  - United States_None_trojan_10105
   - Australia_Sydney_trojan_10106
   - Brazil_Osasco_trojan_10107
   - Canada_Toronto_trojan_10108
@@ -2034,7 +2034,7 @@ proxy-groups:
   - Unknown_trojan_10115
   - Unknown_trojan_10116
   - Chile_Santiago_trojan_10117
-  - Finland_Helsinki_trojan_10118
+  - Israel_Tel Aviv_trojan_10118
   - Germany_Frankfurt am Main_trojan_10119
   - Germany_Frankfurt am Main_trojan_10120
   - Germany_Frankfurt am Main_trojan_10121
@@ -2162,8 +2162,8 @@ proxy-groups:
   - United States_Santa Clara_ss_11101
   - South Africa_Johannesburg_ss_11102
   - South Africa_Johannesburg_ss_11103
-  - Hong Kong_None_trojan_11104
-  - Hong Kong_None_trojan_11105
+  - United States_None_trojan_11104
+  - United States_None_trojan_11105
   - Australia_Sydney_trojan_11106
   - Brazil_Osasco_trojan_11107
   - Canada_Toronto_trojan_11108
@@ -2176,7 +2176,7 @@ proxy-groups:
   - Unknown_trojan_11115
   - Unknown_trojan_11116
   - Chile_Santiago_trojan_11117
-  - Finland_Helsinki_trojan_11118
+  - Israel_Tel Aviv_trojan_11118
   - Germany_Frankfurt am Main_trojan_11119
   - Germany_Frankfurt am Main_trojan_11120
   - Germany_Frankfurt am Main_trojan_11121
@@ -2312,8 +2312,8 @@ proxy-groups:
   - United States_Santa Clara_ss_10101
   - South Africa_Johannesburg_ss_10102
   - South Africa_Johannesburg_ss_10103
-  - Hong Kong_None_trojan_10104
-  - Hong Kong_None_trojan_10105
+  - United States_None_trojan_10104
+  - United States_None_trojan_10105
   - Australia_Sydney_trojan_10106
   - Brazil_Osasco_trojan_10107
   - Canada_Toronto_trojan_10108
@@ -2326,7 +2326,7 @@ proxy-groups:
   - Unknown_trojan_10115
   - Unknown_trojan_10116
   - Chile_Santiago_trojan_10117
-  - Finland_Helsinki_trojan_10118
+  - Israel_Tel Aviv_trojan_10118
   - Germany_Frankfurt am Main_trojan_10119
   - Germany_Frankfurt am Main_trojan_10120
   - Germany_Frankfurt am Main_trojan_10121
@@ -2454,8 +2454,8 @@ proxy-groups:
   - United States_Santa Clara_ss_11101
   - South Africa_Johannesburg_ss_11102
   - South Africa_Johannesburg_ss_11103
-  - Hong Kong_None_trojan_11104
-  - Hong Kong_None_trojan_11105
+  - United States_None_trojan_11104
+  - United States_None_trojan_11105
   - Australia_Sydney_trojan_11106
   - Brazil_Osasco_trojan_11107
   - Canada_Toronto_trojan_11108
@@ -2468,7 +2468,7 @@ proxy-groups:
   - Unknown_trojan_11115
   - Unknown_trojan_11116
   - Chile_Santiago_trojan_11117
-  - Finland_Helsinki_trojan_11118
+  - Israel_Tel Aviv_trojan_11118
   - Germany_Frankfurt am Main_trojan_11119
   - Germany_Frankfurt am Main_trojan_11120
   - Germany_Frankfurt am Main_trojan_11121
